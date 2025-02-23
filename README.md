@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a potential bug related to unhandled cases in a conditional statement. The function `myFunction` aims to perform different calculations based on the input value `x`, but it misses a crucial check for the case where `x` equals 0. The provided `bugSolution.m` addresses this issue, enhancing the function's robustness and correctness.
